@@ -7,7 +7,7 @@ Resourceful cybersecurity professional with expertise in SOC analysis, VAPT, and
 
 ## 🔹 Projects
 - [rbac_dashboard](https://github.com/priyakp-cyberforensics/rbac_dashboard)  
-  A *Role-Based Access Control (RBAC) Security Dashboard* built from scratch using *Python, Flask, SQLAlchemy, Bootstrap, and Chart.js. This project blends **cybersecurity principles* with *UI/UX design thinking*, offering a full-stack academic showcase that simulates enterprise-grade access control systems.
+  A *Role-Based Access Control (RBAC) Security Dashboard* built from scratch using Python, Flask, SQLAlchemy, Bootstrap, and Chart.js. This project blends *cybersecurity principles* with *UI/UX design thinking*, offering a full-stack academic showcase that simulates enterprise-grade access control systems.
 
   
 - [IoT Security Enhancer](https://github.com/priyakp-cyberforensics/iot-security-enhancer)  
