@@ -6,8 +6,9 @@ Assistant Professor in Cyber Forensics | SOC Analyst | AI/ML Security Enthusiast
 Resourceful cybersecurity professional with expertise in SOC analysis, VAPT, and digital forensics. Passionate about empowering students through hands-on labs and advancing cyber defense with AI/ML security concepts.
 
 ## 🔹 Projects
-- [Windows Incident Response Tool](https://github.com/priyakp-cyberforensics/windows-incident-response-tool)  
-  Automated forensic data collection using WinRM with <3% false positives.
+- [rbac_dashboard](https://github.com/priyakp-cyberforensics/rbac_dashboard)  
+  A *Role-Based Access Control (RBAC) Security Dashboard* built from scratch using *Python, Flask, SQLAlchemy, Bootstrap, and Chart.js. This project blends **cybersecurity principles* with *UI/UX design thinking*, offering a full-stack academic showcase that simulates enterprise-grade access control systems.
+
   
 - [IoT Security Enhancer](https://github.com/priyakp-cyberforensics/iot-security-enhancer)  
   Python-based IDS with ML anomaly detection (<5% false positives) and lightweight encryption.
