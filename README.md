@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Priya K P 👋
 
-<!--
-**priyakp-cyberforensics/priyakp-cyberforensics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assistant Professor in Cyber Forensics | SOC Analyst | AI/ML Security Enthusiast
 
-Here are some ideas to get you started:
+## 🔹 About Me
+Resourceful cybersecurity professional with expertise in SOC analysis, VAPT, and digital forensics. Passionate about empowering students through hands-on labs and advancing cyber defense with AI/ML security concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Projects
+- [Windows Incident Response Tool](https://github.com/USERNAME/windows-incident-response-tool)  
+  Automated forensic data collection using WinRM with <3% false positives.
+  
+- [IoT Security Enhancer](https://github.com/USERNAME/iot-security-enhancer)  
+  Python-based IDS with ML anomaly detection (<5% false positives) and lightweight encryption.
+
+## 🔹 Skills
+- SOC Analysis, Incident Response, VAPT
+- Python Automation, Digital Forensics
+- Tools: Wireshark, Burp Suite, Metasploit, Nmap, OSINT
+
+## 🔹 Certifications
+- Microsoft Cybersecurity Analyst (ongoing)
+- SOC Detection Engineering (Antisyphon)
+- SOC Program Foundation (Microsoft)
+
+## 🔹 Connect
+- LinkedIn: [linkedin.com/in/priyaprakasan](https://linkedin.com/in/priyaprakasan)
+- Email: prakasanpriya5@gmail.com
+
