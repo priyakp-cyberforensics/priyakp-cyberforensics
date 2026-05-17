@@ -15,12 +15,19 @@ Resourceful cybersecurity professional with expertise in SOC analysis, VAPT, and
 ## 🔹 Skills
 - SOC Analysis, Incident Response, VAPT
 - Python Automation, Digital Forensics
-- Tools: Wireshark, Burp Suite, Metasploit, Nmap, OSINT
+- Tools: Wireshark, Burp Suite, Metasploit, Nmap, OSINT,Hydra,MEdusa,Aircrack-ng
 
 ## 🔹 Certifications
 - Microsoft Cybersecurity Analyst (ongoing)
 - SOC Detection Engineering (Antisyphon)
 - SOC Program Foundation (Microsoft)
+- Cybersecurity Threat Vectors & Mitigation (Microsoft)
+- Introduction to Networking & Cloud Computing (Microsoft/Coursera)
+- Introduction to Computers, OS & Security (Microsoft/Coursera)
+- Introduction to Penetration Testing (Security Blue Team)
+- Cyber Security Associate Certification (Reliance Foundation)
+- AI For All – Intel/Digital India (AI Aware & AI Appreciate)
+- Global Employability Test (Wheebox/ETS)
 
 ## 🔹 Connect
 - LinkedIn: [linkedin.com/in/priyaprakasan](https://linkedin.com/in/priyaprakasan)
