@@ -28,6 +28,7 @@ Resourceful cybersecurity professional with expertise in SOC analysis, VAPT, and
 - Cyber Security Associate Certification (Reliance Foundation)
 - AI For All – Intel/Digital India (AI Aware & AI Appreciate)
 - Global Employability Test (Wheebox/ETS)
+- Certification in Data Entry and Console Operation (C-DIT)
 
 ## 🔹 Connect
 - LinkedIn: [linkedin.com/in/priyaprakasan](https://linkedin.com/in/priyaprakasan)
